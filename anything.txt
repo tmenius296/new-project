@@ -1,0 +1,32 @@
+----------
+COOKING PROJECT
+----------
+Features:
+- store recipes
++ ingredients
++ prep instructions
+  + bulleted list
+  + cook time
+  + steps
+  + temperature
+  + etc
++ name
++ description
+
+
+Functionality
+PHASE 1
+- open the app / start the app
+- read active recipe list
+- confirm and exit
+
+PHASE 2
+- await user input for injecting new recipe data
+- save recipe data
+
+PROJECT SETUP
+---------
+1) Store the active project online so it won't be lost
+   - guthub for that
+
+
